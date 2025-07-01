@@ -64,3 +64,5 @@ I'm a **versatile cybersecurity specialist** with expertise in threat detection,
 📫 **Let's connect!**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholaswestnz/)  
 *References available upon request*
+---
+![Visitor Count](https://profile-counter.glitch.me/ValidGoodCool/count.svg)
