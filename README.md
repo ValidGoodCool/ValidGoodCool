@@ -30,7 +30,7 @@ I'm a **versatile cybersecurity specialist** with expertise in threat detection,
 
 | Project | Description | Technologies | Link |
 |---------|-------------|--------------|------|
-| **SIEM Threat Detection Lab** | Homelab environment simulating attack detection with custom Splunk alerts | Splunk, Wazuh, Virtual Machines | [GitHub Repo](#) |
+| **SIEM Threat Detection Lab** | Homelab environment simulating attack detection with custom Splunk alerts | Splunk, Wazuh, Virtual Machines | [WazuhSIEM](https://github.com/ValidGoodCool/WazuhSIEMIntro) |
 | **ASB Bank Process Automation** | Digitized regulatory compliance workflows (reduced processing time by 80%) | Python, Intelledox SmartIQ, SQL | *(ASB proprietary)* |
 | **Network Security Analyzer** | Python tool for parsing firewall logs and identifying anomalies | Python, Regex, Pandas | [GitHub Repo](#) |
 | **TryHackMe SOC Challenges** | Completed 25+ SOC-level security scenarios | Splunk, ELK, MITRE ATT&CK | [Profile](https://tryhackme.com/p/[YourUsername]) |
@@ -62,4 +62,3 @@ I'm a **versatile cybersecurity specialist** with expertise in threat detection,
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholaswestnz/)  
 *References available upon request*
 ---
-![Visitor Count](https://profile-counter.glitch.me/ValidGoodCool/count.svg)
