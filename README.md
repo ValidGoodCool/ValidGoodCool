@@ -4,9 +4,6 @@
 📍 Auckland, NZ | ✉️ [west.nick@gmail.com](mailto:west.nick@gmail.com) | 📞 +64 22 605 2906  
 
 ---
-
-## 👋 Welcome to My GitHub!
-
 I'm a **versatile cybersecurity specialist** with expertise in threat detection, security automation, and risk governance. After 18 months of paternity leave (and hands-on homelab training!), I'm eager to return to the field and contribute to innovative security programs.
 
 **What I bring to the table:**
