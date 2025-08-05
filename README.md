@@ -9,7 +9,7 @@ I'm a **versatile cybersecurity specialist** with expertise in threat detection,
 **What I bring to the table:**
 - ✔️ **Certified Security+ (SY0-701)** with focus on incident response
 - ✔️ **SIEM proficiency** in Splunk, Wazuh, and ELK Stack
-- ✔️ **Scripting skills** (Python/PowerShell) for security automation
+- ✔️ **Scripting skills** (Python/Bash/PowerShell) for security automation
 - ✔️ **Stakeholder-focused approach** honed at ASB Bank
 
 ---
